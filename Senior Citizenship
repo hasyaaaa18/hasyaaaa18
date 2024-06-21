@@ -64,7 +64,7 @@ public class Solution {
 17
             {
 18
-                System.out.println("Not a Senior Citizen");
+                System.out.println("Not A Senior Citizen");
 19
             }
 20
@@ -88,7 +88,7 @@ public class Solution {
 29
              {
 30
-                System.out.println("Not a Senior Citizen");
+                System.out.println("Not A Senior Citizen");
 31
              }
 32
